@@ -8,7 +8,7 @@ import java.util.*;
 //3) frequency :- know the frequency of a particular value in list
 //4) sort
 
-public class CollectionsClass {
+public class CollectionsClass9 {
     public static void main(String[] args) {
 
         List<Integer> list = new ArrayList<>();
